@@ -70,13 +70,10 @@ To deliver an interactive reporting tool that:
 ## Screenshot
 
 **Home Page**
-Displays overall KPIs, daily/monthly order trends, and sales breakdowns by category and size.
+![Home Page](https://github.com/shivam-0919/Pizza_Sales_Report/blob/main/Home.png)
 
 
-**Best/Worst Sellers Page**
-Ranks pizzas by revenue, quantity, and total orders to surface top and bottom performers.
-
-*(Add the dashboard screenshots here in your repository, e.g. `![Home Page](images/home.png)` and `![Best-Worst Sellers](images/best_worst_sellers.png)`)*
+**Best/Worst Sellers**
+![Best/Worst Sellers](https://github.com/shivam-0919/Pizza_Sales_Report/blob/main/Best-Worst%20Sellers.png)
 
 
-*(Add the dashboard screenshots here in your repository, e.g. `![Home Page](images/home.png)` and `![Best-Worst Sellers](images/best_worst_sellers.png)`)*
